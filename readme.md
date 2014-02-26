@@ -1,3 +1,18 @@
+Often, getting started with a backbone.js based project can be tedious due to various boiler plate code that needs to be in place.
+This github project, intends to provide a jumpstart to single page apps projects based on backbone.js
+It provides a basic template for getting started with a backbone.js based project.
+
+The application directory structure is quite standard and the dir names are suggestive of their intent.
+
+"lib" directory contains javascript third party libraries like backbone, underscore, bootstrap etc
+The actual backbone project source code is in js directory
+The tpl dir contains the backbone view templates.
+
+Conventional directories and names have been used to jumpstart writing the app.
+
+Example below narrates how to quickly plugin your own view template into the app.
+
+
 Getting Started with plugging in your own view into backbone
 
 
